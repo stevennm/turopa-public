@@ -4,7 +4,7 @@
 </a>
 </br>
 
-#### :star: TuRopa.com.ar is a web application that helps you find and compare clothes from multiple brands* in a single place. :star:
+#### :star: <a href="https://turopa.com.ar/">TuRopa.com.ar</a> is a web application that helps you find and compare clothes from multiple brands* in a single place. :star:
 
 ### Technologies used
 
